@@ -5,13 +5,13 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>cn.stylefeng</groupId>
-        <artifactId>guns-base-support</artifactId>
+        <groupId>org.kmust</groupId>
+        <artifactId>jiwei-base-support</artifactId>
         <version>1.0.0</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
 
-    <artifactId>guns-sys</artifactId>
+    <artifactId>jiwei-sys</artifactId>
 
     <packaging>jar</packaging>
 
@@ -19,15 +19,15 @@
 
         <!--基础组件-->
         <dependency>
-            <groupId>cn.stylefeng</groupId>
-            <artifactId>guns-base</artifactId>
+            <groupId>org.kmust</groupId>
+            <artifactId>jiwei-base</artifactId>
             <version>1.0.0</version>
         </dependency>
 
         <!-- 权限管理模块 -->
         <dependency>
-            <groupId>cn.stylefeng</groupId>
-            <artifactId>guns-base-auth</artifactId>
+            <groupId>org.kmust</groupId>
+            <artifactId>jiwei-base-auth</artifactId>
             <version>1.0.0</version>
         </dependency>
 

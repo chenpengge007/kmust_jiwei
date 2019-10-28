@@ -5,20 +5,20 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>cn.stylefeng</groupId>
-        <artifactId>guns-architecture</artifactId>
+        <groupId>org.kmust</groupId>
+        <artifactId>jiwei-architecture</artifactId>
         <version>1.0.0</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
 
-    <artifactId>guns-base-support</artifactId>
+    <artifactId>jiwei-base-support</artifactId>
 
     <packaging>pom</packaging>
 
     <modules>
-        <module>guns-base</module>
-        <module>guns-base-auth</module>
-        <module>guns-sys</module>
+        <module>jiwei-base</module>
+        <module>jiwei-base-auth</module>
+        <module>jiwei-sys</module>
     </modules>
 
 </project>

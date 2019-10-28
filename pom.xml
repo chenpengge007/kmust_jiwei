@@ -10,8 +10,8 @@
         <version>2.1.6.RELEASE</version>
     </parent>
 
-    <groupId>cn.stylefeng</groupId>
-    <artifactId>guns-architecture</artifactId>
+    <groupId>org.kmust</groupId>
+    <artifactId>jiwei-architecture</artifactId>
     <version>1.0.0</version>
 
     <name>guns-architecture</name>
@@ -20,8 +20,10 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>guns-base-support</module>
-        <module>guns-main</module>
+        <module>jiwei-base-support</module>
+        <module>jiwei-main</module>
+        <module>jiwei-business</module>
+        <module>jiwei-dao</module>
     </modules>
 
     <properties>
