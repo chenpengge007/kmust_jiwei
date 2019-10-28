@@ -10,18 +10,18 @@
         <version>2.1.6.RELEASE</version>
     </parent>
 
-    <groupId>cn.stylefeng</groupId>
-    <artifactId>guns-architecture</artifactId>
+    <groupId>org.kmust</groupId>
+    <artifactId>jiwei-architecture</artifactId>
     <version>1.0.0</version>
 
-    <name>guns-architecture</name>
-    <description>guns开源版本6.0</description>
+    <name>jiwei-architecture</name>
+    <description>昆工纪委档案管理系统</description>
 
     <packaging>pom</packaging>
 
     <modules>
-        <module>guns-base-support</module>
-        <module>guns-main</module>
+        <module>jiwei-base-support</module>
+        <module>jiwei-main</module>
     </modules>
 
     <properties>
